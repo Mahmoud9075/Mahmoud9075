@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey there! I'm Mahmoud Ibrahim
 
 🚀 Front-End Developer | 💻 Passionate about Clean UI & Interactive Web Experiences
@@ -35,3 +37,6 @@
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
