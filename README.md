@@ -13,8 +13,9 @@
 
 ## Connect with Me :
 
-[![Mahmoud Email](https://img.shields.io/badge/Gmail-Mahmoudibrahim9075@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:Mahmoudibrahim9075@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)
+[![Gmail](https://img.shields.io/badge/Gmail-Mahmoudibrahim9075@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:Mahmoudibrahim9075@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201122749075?text=Hi%20Mahmoud%2C%20I%20saw%20your%20GitHub%20profile%20👋)
 
 ---
 
