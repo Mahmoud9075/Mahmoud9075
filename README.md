@@ -1,6 +1,17 @@
-<h1 align="center" style="font-size: 36px">👋 Hey there! I'm Mahmoud Ibrahim</h1>
-<p align="center" style="font-size: 18px">
-  🚀 <strong>Front-End Developer</strong> | 🖥️ Passionate about Clean UI & Interactive Web Experiences
+<h1 align="center" style="font-size: 40px">👋 Welcome! I'm Mahmoud Ibrahim</h1>
+<p align="center" style="font-size: 20px">
+  🚀 <strong>Front-End Developer</strong> | 🎨 Lover of Clean UI & Interactive Web Design
+</p>
+
+---
+
+## 📞 Connect with Me
+
+<p align="center">
+  <a href="mailto:Mahmoudibrahim9075@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ibrahim-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/201122749075?text=Hi%20Mahmoud%2C%20I%20saw%20your%20GitHub%20profile!"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/Mahmoud9075"><img src="https://img.shields.io/badge/GitHub-Mahmoud9075-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -9,24 +20,15 @@
 
 - 🎓 I'm a self-motivated front-end developer based in Egypt.
 - 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
-- 🚀 Currently improving my skills and working on cool mini-projects.
-- ☕ I love coffee, clean code, and creative design.
-
----
-
-## 📞 Connect with Me
-
-- 📧 Email: [Mahmoudibrahim9075@gmail.com](mailto:Mahmoudibrahim9075@gmail.com)
-- 💼 LinkedIn: [Mahmoud Ibrahim](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)
-- 📱 WhatsApp: [Message Me](https://wa.me/201122749075?text=Hi%20Mahmoud%2C%20I%20saw%20your%20GitHub%20profile%20👋)
-- 💻 GitHub: [Mahmoud9075](https://github.com/Mahmoud9075)
+- 🚀 Constantly improving my skills and working on mini-projects.
+- ☕ Coffee, clean code, and UI perfection fuel me.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" height="55" />
 </p>
 
 ---
@@ -34,30 +36,30 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=12" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=12" width="80%" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **Portfolio Website** | Sleek portfolio with dark mode | React, Tailwind CSS | [Live](#) |
-| **Task Manager App** | To-do app with drag-and-drop features | React, Bootstrap | [Live](#) |
-| **IPTV Landing Page** | Stylish landing page for IPTV services | HTML, CSS, JS | [Live](#) |
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|-----------|
+| 🎨 **Portfolio Website** | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
+| ✅ **Task Manager** | To-do app with drag-drop features | React, Bootstrap | [Visit](#) |
+| 📺 **IPTV Landing Page** | Responsive promo site | HTML, CSS, JS | [Visit](#) |
 
 ---
 
 ## 🎓 Education & Experience
 
 - 🏫 Graduate of **Suez STEM School for Petrochemicals**
-- 💻 Developed +10 front-end projects using React, JS, HTML, CSS
-- 👨‍💻 Freelance developer working with real clients
+- 👨‍💻 +10 real-world front-end projects
+- 💼 Freelance Developer delivering client projects
 
 ---
 
