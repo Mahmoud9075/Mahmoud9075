@@ -1,26 +1,26 @@
-<!-- 👋 Professional GitHub Profile README -->
+<!-- 🌟 PROFESSIONAL GITHUB PROFILE README -->
 
 <h1 align="center">Hi 👋, I'm Mahmoud Ibrahim</h1>
-<h3 align="center">Frontend Web Developer | React & UI Enthusiast</h3>
+<h3 align="center">Frontend Developer | React Specialist | Clean UI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:Mahmoudibrahim9075@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mahmoudibrahim9075@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ibrahim-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://wa.me/201122749075?text=Hi%20Mahmoud!"><img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ibrahim-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/Mahmoud9075"><img src="https://img.shields.io/badge/GitHub-Mahmoud9075-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💼 About Me
 
-I'm a passionate **Frontend Developer** from Egypt who builds modern and responsive web interfaces using:
+I'm a motivated **Frontend Developer** based in Egypt focused on crafting clean, user-friendly, and efficient web interfaces.
 
-- 🧠 **HTML, CSS, JavaScript, React**
-- 🎨 Focused on clean UI and smooth UX
-- 🚀 Always learning new technologies & frameworks
-- 🤝 Open for freelance projects & collaborations
-- 📱 Can turn any design into a pixel-perfect web product
+- 🧠 Skilled in **HTML, CSS, JavaScript, React**
+- 🎯 Dedicated to building pixel-perfect and fully responsive UIs
+- 🚀 Always learning and building mini-projects
+- 🤝 Open to freelance work and collaboration
+- ☕ Fun Fact: Coffee + Code = Productivity
 
 ---
 
@@ -41,48 +41,48 @@ I'm a passionate **Frontend Developer** from Egypt who builds modern and respons
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **Portfolio Website** | Personal site with smooth scrolling, animations, and dark mode | React, Tailwind CSS | [Visit](#) |
-| **Task Manager App** | To-do app with categories and drag-drop | React, Bootstrap | [Visit](#) |
-| **IPTV Landing Page** | Responsive landing with modern UI | HTML, CSS, JavaScript | [Visit](#) |
+| 💻 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Demo |
+|-----------|----------------|----------------|---------|
+| **Portfolio Website** | Sleek and modern portfolio with dark mode & animations | React, Tailwind | [Visit](#) |
+| **Task Manager** | Organize tasks visually with drag-and-drop | React, Bootstrap | [Visit](#) |
+| **IPTV Landing Page** | Landing page for IPTV service | HTML, CSS, JS | [Visit](#) |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=10" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=10" width="70%" />
 </p>
 
 ---
 
-## 📚 Education & Experience
+## 🎓 Education & Experience
 
 - 🏫 Graduate of **Suez STEM School for Petrochemicals**
-- 🧑‍💻 Built over 10+ mini projects in HTML, CSS, JS, React
-- 🛠️ Experience in freelance projects and internships
+- 💻 Completed 10+ front-end projects (React, JS, HTML, CSS)
+- 🧑‍💻 Freelance developer with real-world project delivery
 
 ---
 
 ## 📞 Contact
 
-Feel free to reach out for jobs, collaboration, or networking:
+Want to collaborate, hire me, or just say hi? Reach out:
 
 - 📧 Email: Mahmoudibrahim9075@gmail.com
-- 📱 WhatsApp: +201122749075
+- 📱 WhatsApp: [+201122749075](https://wa.me/201122749075?text=Hi%20Mahmoud!)
 - 💼 LinkedIn: [Mahmoud Ibrahim](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)
 
 ---
 
 <p align="center">
-  <em>"Beauty is in clean code and powerful UI."</em> 💡
+  <em>"Strive for clean code and meaningful design."</em>
 </p>
 
 <p align="center">
-  <b>© Mahmoud Ibrahim | 2025</b>
+  <strong>© Mahmoud Ibrahim | Updated 2025</strong>
 </p>
