@@ -1,41 +1,25 @@
-## 👋 Hi there!
-
-### Welcome to **Mahmoud Ibrahim**'s GitHub profile! 👨‍💻
-
----
-
-💻 I'm a passionate **Front-End Web Developer**  
-🎯 I specialize in building modern, responsive, and user-friendly interfaces.  
-📚 Constantly learning and growing in the world of web development.  
-💬 Ask me about **HTML, CSS, JavaScript, React**, or anything frontend.  
-☕ Fun Fact: My best code comes after midnight... with coffee!
+<!-- 🎯 Hero Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Mahmoud%20Ibrahim%20👨‍💻&fontSize=38&fontColor=ffffff&fontAlignY=40" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Front-End+Developer+⚛️;Clean+UI+%7C+Responsive+Design+%7C+Fast+Delivery;React,+JavaScript,+HTML,+CSS+%7C+Tailwind;Let’s+build+awesome+web+experiences!" />
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## 🧑‍💻 About Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-Mahmoudibrahim9075@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahmoudibrahim9075@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Ibrahim-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201122749075?text=Hi%20Mahmoud%2C%20I%20saw%20your%20GitHub%20profile%20👋)
-
----
-
-## ⚙️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+💻 **Front-End Developer** with a love for design and detail  
+🎯 I build responsive, pixel-perfect interfaces with **React**, **HTML/CSS**, and **Tailwind CSS**  
+🚀 Always leveling up, one UI at a time  
+☕ Caffeine-powered late-night coder with a sharp eye for clean UX
 
 ---
 
-## 📊 Most Used Languages
+## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
@@ -43,5 +27,28 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=blueberry&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=blueberry&border_radius=12" width="48%" />
 </p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:Mahmoudibrahim9075@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201122749075?text=Hey+Mahmoud,+I+saw+your+GitHub!"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 My Focus
+
+```ts
+interface Mahmoud {
+  role: "Front-End Developer";
+  loves: ["Clean UI", "Code Optimization", "Animations"];
+  tools: ["React", "Tailwind", "JavaScript", "Git"];
+  openToWork: true;
+}
