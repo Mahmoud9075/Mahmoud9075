@@ -1,42 +1,41 @@
-<div align="center">
+## Hi there 👋
 
-# 👋 Hey there! I'm Mahmoud Ibrahim
-
-🚀 Front-End Developer | 💻 Passionate about Clean UI & Interactive Web Experiences
-
-</div>
+### Welcome to Mahmoud's profile! 👨‍💻
 
 ---
 
-## 🧠 About Me
-
-- 🎓 I'm a self-motivated front-end developer based in Egypt.
-- 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
-- 🚀 Currently improving my skills and working on cool mini-projects.
-- ☕ I love coffee, clean code, and creative design.
+💻 I'm a **Front-End Web Developer**  
+🎓 As a web enthusiast, I'm constantly learning and building responsive websites.  
+💬 Ask me about my experience with **HTML, CSS, JavaScript, React**, or anything frontend.  
+☕ Fun Fact: My perfect day starts and ends with a cup of strong coffee.
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me :
 
-- 📧 Email: [Mahmoudibrahim9075@gmail.com](mailto:Mahmoudibrahim9075@gmail.com)  
-- 💼 LinkedIn: [Mahmoud Ibrahim](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)
-
----
-
-## ⚙️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Git](https://img.shields.io/badge/-Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
+[![Mahmoud Email](https://img.shields.io/badge/Gmail-Mahmoudibrahim9075@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:Mahmoudibrahim9075@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 GitHub Stats
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight)
