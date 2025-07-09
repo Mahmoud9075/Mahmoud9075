@@ -24,7 +24,7 @@ I'm a passionate **Frontend Developer** from Egypt who builds modern and respons
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,8 +52,11 @@ I'm a passionate **Frontend Developer** from Egypt who builds modern and respons
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=10" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=10" width="60%" />
 </p>
 
 ---
