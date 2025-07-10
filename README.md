@@ -18,10 +18,10 @@
 
 ## 📌 About Me
 
-* 🎓 I'm a self-motivated front-end developer based in Egypt.
-* 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
-* 🚀 Constantly improving my skills and working on mini-projects.
-* ☕ Coffee, clean code, and UI perfection fuel me.
+- 🎓 I'm a self-motivated front-end developer based in Egypt.
+- 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
+- 🚀 Constantly improving my skills and working on mini-projects.
+- ☕ Coffee, clean code, and UI perfection fuel me.
 
 ---
 
@@ -35,19 +35,19 @@
 
 ## 🚀 Featured Projects
 
-| Project                | Description                            | Tech Stack          | Live Demo  |
-| ---------------------- | -------------------------------------- | ------------------- | ---------- |
-| 🎨 *Portfolio Website* | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
-| ✅ *Task Manager*       | To-do app with drag-drop features      | React, Bootstrap    | [Visit](#) |
-| 📺 *IPTV Landing Page* | Responsive promo site                  | HTML, CSS, JS       | [Visit](#) |
+| Project | Description | Tech Stack | Live Demo |
+| ------- | ----------- | ---------- | --------- |
+| 🎨 *Portfolio Website*    | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
+| ✅ *Task Manager*         | To-do app with drag-drop features      | React, Bootstrap    | [Visit](#) |
+| 📺 *IPTV Landing Page*   | Responsive promo site                  | HTML, CSS, JS       | [Visit](#) |
 
 ---
 
 ## 🎓 Education & Experience
 
-* 🏫 Graduate of *Suez STEM School for Petrochemicals*
-* 👨‍💻 +10 real-world front-end projects
-* 💼 Freelance Developer delivering client projects
+- 🏫 Graduate of *Suez STEM School for Petrochemicals*
+- 👨‍💻 +10 real-world front-end projects
+- 💼 Freelance Developer delivering client projects
 
 ---
 
@@ -79,20 +79,29 @@
 
 ## 🧠 Most Used Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud9075/mahmoud9075/main/assets/lang-usage-bar.png" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-31.84%25-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-17.23%25-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS-13.46%25-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-11.17%25-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-8.57%25-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SCSS-7.02%25-pink?style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-5.72%25-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-5.00%25-lightgrey?style=flat-square" />
-</p>
+<div align="center" style="background-color:#1e1e2f;padding:20px;border-radius:12px;width:fit-content;margin:auto">
+  <h3>Most Used Languages</h3>
+  <div style="display:flex;align-items:center;justify-content:center;margin-bottom:10px">
+    <div style="background:#e34c26;height:8px;width:31.84%;margin-right:2px"></div>
+    <div style="background:#f1e05a;height:8px;width:17.23%;margin-right:2px"></div>
+    <div style="background:#563d7c;height:8px;width:13.46%;margin-right:2px"></div>
+    <div style="background:#DA5B0B;height:8px;width:11.17%;margin-right:2px"></div>
+    <div style="background:#3572A5;height:8px;width:8.57%;margin-right:2px"></div>
+    <div style="background:#cd6799;height:8px;width:7.02%;margin-right:2px"></div>
+    <div style="background:#b07219;height:8px;width:5.72%;margin-right:2px"></div>
+    <div style="background:#f34b7d;height:8px;width:5.00%"></div>
+  </div>
+  <ul style="list-style:none;text-align:left;color:#fff;padding:0;font-size:14px">
+    <li><span style="color:#e34c26">⬤</span> HTML 31.84%</li>
+    <li><span style="color:#f1e05a">⬤</span> JavaScript 17.23%</li>
+    <li><span style="color:#563d7c">⬤</span> CSS 13.46%</li>
+    <li><span style="color:#DA5B0B">⬤</span> Jupyter Notebook 11.17%</li>
+    <li><span style="color:#3572A5">⬤</span> Python 8.57%</li>
+    <li><span style="color:#cd6799">⬤</span> SCSS 7.02%</li>
+    <li><span style="color:#b07219">⬤</span> Java 5.72%</li>
+    <li><span style="color:#f34b7d">⬤</span> C++ 5.00%</li>
+  </ul>
+</div>
 
 ---
 
