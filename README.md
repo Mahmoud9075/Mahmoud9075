@@ -35,14 +35,16 @@
 
 ## 📊 GitHub Stats
 
-### 🔹 Mahmoud's Contribution Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=12" width="60%" />
 </p>
 
-### 🔹 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=12" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahmoud9075&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
 ---
