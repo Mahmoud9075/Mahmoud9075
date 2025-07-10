@@ -8,10 +8,18 @@
 ## 📞 Connect with Me
 
 <p align="center">
-  <a href="mailto:Mahmoudibrahim9075@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ibrahim-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/201122749075?text=Hi%20Mahmoud%2C%20I%20saw%20your%20GitHub%20profile!"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/Mahmoud9075"><img src="https://img.shields.io/badge/GitHub-Mahmoud9075-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:Mahmoudibrahim9075@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mahmoud9075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-2076a836b">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ibrahim-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201122749075?text=Hi%20Mahmoud%2C%20I%20saw%20your%20GitHub%20profile!">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mahmoud9075">
+    <img src="https://img.shields.io/badge/GitHub-Mahmoud9075-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
