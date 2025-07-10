@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 40px">👋 Welcome! I'm Mahmoud Ibrahim</h1>
+[<h1 align="center" style="font-size: 40px">👋 Welcome! I'm Mahmoud Ibrahim</h1>
 <p align="center" style="font-size: 20px">
   🚀 <strong>Front-End Developer</strong> | 🎨 Lover of Clean UI & Interactive Web Design
 </p>
@@ -105,3 +105,4 @@
   <em>“Strive for clean code and meaningful design.”</em><br/>
   <strong>© Mahmoud Ibrahim • Updated: 2025</strong>
 </p>
+](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
