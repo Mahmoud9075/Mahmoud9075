@@ -5,6 +5,55 @@
 
 ---
 
+## ⚡ Stats ⚡
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud9075&theme=tokyonight&border_radius=12" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=12&hide_rank=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=12" width="47%" />
+</p>
+
+---
+
+## 💡 GitHub Breakdown
+
+| 📊 Stat                       | 🔢 Value |
+| ----------------------------- | -------- |
+| ⭐ Total Stars Earned          | 542      |
+| 🔁 Total Commits (2025)       | 16       |
+| 🔧 Total PRs                  | 19       |
+| ❗ Total Issues                | 3        |
+| 🔄 Contributed to (last year) | 2        |
+| 🏅 Grade                      | **B**    |
+
+---
+
+## 🧠 Most Used Languages
+
+```text
+HTML              ████████████████████▌           31.84%
+JavaScript        ███████████▋                    17.23%
+CSS               █████████                      13.46%
+Jupyter Notebook  ████████▎                      11.17%
+Python            █████▌                          8.57%
+SCSS              █████                           7.02%
+Java              ████▋                           5.72%
+C++               ████                            5.00%
+```
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mahmoud9075&theme=react-dark&custom_title=Mahmoud%27s%20Contribution%20Graph" width="100%" />
+</p>
+
+---
+
 ## 📞 Connect with Me
 
 <p align="center">
@@ -16,15 +65,6 @@
 
 ---
 
-## 📌 About Me
-
-- 🎓 I'm a self-motivated front-end developer based in Egypt.
-- 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
-- 🚀 Constantly improving my skills and working on mini-projects.
-- ☕ Coffee, clean code, and UI perfection fuel me.
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -33,37 +73,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=12" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=12" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahmoud9075&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|--------|-------------|------------|-----------|
+| Project                  | Description                            | Tech Stack          | Live Demo  |
+| ------------------------ | -------------------------------------- | ------------------- | ---------- |
 | 🎨 **Portfolio Website** | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
-| ✅ **Task Manager** | To-do app with drag-drop features | React, Bootstrap | [Visit](#) |
-| 📺 **IPTV Landing Page** | Responsive promo site | HTML, CSS, JS | [Visit](#) |
+| ✅ **Task Manager**       | To-do app with drag-drop features      | React, Bootstrap    | [Visit](#) |
+| 📺 **IPTV Landing Page** | Responsive promo site                  | HTML, CSS, JS       | [Visit](#) |
 
 ---
 
 ## 🎓 Education & Experience
 
-- 🏫 Graduate of **Suez STEM School for Petrochemicals**
-- 👨‍💻 +10 real-world front-end projects
-- 💼 Freelance Developer delivering client projects
+* 🏫 Graduate of **Suez STEM School for Petrochemicals**
+* 👨‍💻 +10 real-world front-end projects
+* 💼 Freelance Developer delivering client projects
 
 ---
 
