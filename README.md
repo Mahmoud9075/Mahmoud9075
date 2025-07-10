@@ -59,9 +59,7 @@
 
 ## 🎓 Education & Experience
 
-- 🏫 Graduate of *Suez STEM School for Petrochemicals*
-- 👨‍💻 +10 real-world front-end projects
-- 💼 Freelance Developer delivering client projects
+
 
 ---
 
