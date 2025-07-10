@@ -79,16 +79,20 @@
 
 ## 🧠 Most Used Languages
 
-```text
-HTML              ████████████████████▌           31.84%
-JavaScript        ███████████▋                    17.23%
-CSS               █████████                      13.46%
-Jupyter Notebook  ████████▎                      11.17%
-Python            █████▌                          8.57%
-SCSS              █████                           7.02%
-Java              ████▋                           5.72%
-C++               ████                            5.00%
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahmoud9075/mahmoud9075/main/assets/lang-usage-bar.png" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-31.84%25-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-17.23%25-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS-13.46%25-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-11.17%25-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-8.57%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SCSS-7.02%25-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-5.72%25-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-5.00%25-lightgrey?style=flat-square" />
+</p>
 
 ---
 
