@@ -65,7 +65,16 @@ C++               ████                            5.00%
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 About Me
+
+* 🎓 I'm a self-motivated front-end developer based in Egypt.
+* 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
+* 🚀 Constantly improving my skills and working on mini-projects.
+* ☕ Coffee, clean code, and UI perfection fuel me.
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" height="55" />
@@ -75,17 +84,17 @@ C++               ████                            5.00%
 
 ## 🚀 Featured Projects
 
-| Project                  | Description                            | Tech Stack          | Live Demo  |
-| ------------------------ | -------------------------------------- | ------------------- | ---------- |
-| 🎨 **Portfolio Website** | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
-| ✅ **Task Manager**       | To-do app with drag-drop features      | React, Bootstrap    | [Visit](#) |
-| 📺 **IPTV Landing Page** | Responsive promo site                  | HTML, CSS, JS       | [Visit](#) |
+| Project                | Description                            | Tech Stack          | Live Demo  |
+| ---------------------- | -------------------------------------- | ------------------- | ---------- |
+| 🎨 *Portfolio Website* | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
+| ✅ *Task Manager*       | To-do app with drag-drop features      | React, Bootstrap    | [Visit](#) |
+| 📺 *IPTV Landing Page* | Responsive promo site                  | HTML, CSS, JS       | [Visit](#) |
 
 ---
 
 ## 🎓 Education & Experience
 
-* 🏫 Graduate of **Suez STEM School for Petrochemicals**
+* 🏫 Graduate of *Suez STEM School for Petrochemicals*
 * 👨‍💻 +10 real-world front-end projects
 * 💼 Freelance Developer delivering client projects
 
