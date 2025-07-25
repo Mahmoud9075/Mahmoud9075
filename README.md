@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 40px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=👋+Welcome!+I'm+Mahmoud+Ibrahim;Front-End+Developer;Clean+UI+Lover+%26+Web+Design+Fan" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=👋+Welcome!+I'm+Mahmoud+Ibrahim;Front-End+Developer;Clean+UI+Lover+%26+Web+Design+Fan" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -26,16 +26,21 @@
 ## 🧠 About Me
 
 - 🇪🇬 Based in Egypt.
-- 🌐 I create responsive, modern websites with HTML, CSS, JS, and React.
+- 🌐 I create responsive, modern websites using HTML, CSS, JS, React & Next.js.
 - 🔄 Always learning and building new projects.
-- ☕ Fueled by coffee, clean code, and good design.
+- ☕ Fueled by coffee, clean code, and creative UI.
 
 ---
 
-## ⚙️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vscode,git,github" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
 </p>
 
 ---
