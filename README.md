@@ -1,13 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=👋+Welcome!+I'm+Mahmoud+Ibrahim;Front-End+Developer;Clean+UI+Lover+%26+Web+Design+Fan" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  🚀 <strong>Front-End Developer</strong> | 🎨 Passionate about Clean UI & Interactive Web
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud9075&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud9075" />
+<h1 align="center" style="font-size: 40px">👋 Welcome! I'm Mahmoud Ibrahim</h1>
+<p align="center" style="font-size: 20px">
+  🚀 <strong>Front-End Developer</strong> | 🎨 Lover of Clean UI & Interactive Web Design
 </p>
 
 ---
@@ -23,41 +16,33 @@
 
 ---
 
-## 🧠 About Me
+## 📌 About Me
 
-- 🇪🇬 Based in Egypt.
-- 🌐 I create responsive, modern websites using HTML, CSS, JS, React & Next.js.
-- 🔄 Always learning and building new projects.
-- ☕ Fueled by coffee, clean code, and creative UI.
+- 🎓 I'm a self-motivated front-end developer based in Egypt.
+- 🌐 I build responsive, user-friendly websites using HTML, CSS, JS, and React.
+- 🚀 Constantly improving my skills and working on mini-projects.
+- ☕ Coffee, clean code, and UI perfection fuel me.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" height="55" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
+### 🔹 Mahmoud's Contribution Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud9075&theme=algolia&margin-w=10&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=12" width="60%" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
+### 🔹 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud9075&show_icons=true&theme=tokyonight&border_radius=12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud9075&layout=compact&theme=tokyonight&border_radius=12" width="60%" />
 </p>
 
 ---
@@ -69,6 +54,12 @@
 | 🎨 *Portfolio Website* | Sleek portfolio with dark/light toggle | React, Tailwind CSS | [Visit](#) |
 | ✅ *Task Manager* | To-do app with drag-drop features | React, Bootstrap | [Visit](#) |
 | 📺 *IPTV Landing Page* | Responsive promo site | HTML, CSS, JS | [Visit](#) |
+
+---
+
+## 🎓 Education & Experience
+
+
 
 ---
 
